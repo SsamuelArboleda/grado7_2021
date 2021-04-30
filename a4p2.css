@@ -1,0 +1,122 @@
+body{
+background:#04B404;
+}
+.cuno{
+position: absolute;
+width:98%;
+height: 97%;
+top: 1%;
+background: green;
+border:solid green 5px;
+
+}
+.titulo{
+position: absolute;
+width: 45%;
+height:7%; 
+top: 2%;
+padding top: 5%;
+background:#045FB4;
+border: solid #0B243B 3px;
+font-size: 40px;
+left: 1%;
+color: white;
+}
+.parrafo{
+position: absolute;
+width: 45%;
+height:50%;
+top: 11%;
+left: 1%;
+border: solid #0B243B 3px;
+background: #B40404;
+color: white;
+font-size: 21.7px;
+
+}
+.parrafo1{
+position: absolute;
+width: 26%;
+height: 32%;
+top: 63.5%;
+background: #8A0886;
+left: 20%;
+border: 3px solid #3B0B24;
+color: white;
+font-size: 23px;
+
+}
+
+.foto1{
+	position: absolute;
+	width:247px;
+	height: 213px;
+	top: 105.7%;
+	right: 166.6%;
+	background:url(foto11.png); 
+	border: 3px solid #0B243B;
+}
+
+.funo{
+	position: absolute;
+	top: 2%;
+	width: 48%;
+	height: 58.7%;
+	background: #B18904;
+	left: 51%;
+	border: solid 3px #0B243B;
+box-sizing: border-box;
+
+}
+.parrafo2{
+	position: absolute;
+	top: 4%;
+	width: 95%;
+	height:53%;
+	background: #188EB9;
+	left: 2%;
+	border: 3px solid #0B243B;
+
+	font-size: 18px;
+	}
+.parrafo3{
+position: absolute;
+top: 63.5%;
+width: 30%;
+height: 32%;
+background: #088A68;
+border: 3px solid #3B0B24;
+color: white;
+font-size: 22px;
+left: 51%;
+}
+.foto2{
+position: absolute;
+top: 107.5%;
+width: 185px;
+height: 99px;
+background: url(foto2.png);
+border: solid 3px #0B243B;
+left: 12%;
+}
+.foto3{
+	position: absolute;
+	top: 107.5%;
+	width: 185px;
+	height:99px;
+	background: url(foto3.png);
+	border: solid 3px #0B243B;
+	left: 59%;
+
+}
+.foto4{
+
+	position: absolute;
+	top: 105.7%;
+	width: 202px;
+height: 213px;
+background: url(foto4.png);
+border: solid 3px #0B243B;
+left: 65%
+}
+
